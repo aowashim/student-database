@@ -1,0 +1,35 @@
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.cache
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojAssemblyReference.cache
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\aowas\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojAssemblyReference.cache
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form3.resources
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.cache
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+D:\Visual C#\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojAssemblyReference.cache
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form3.resources
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.cache
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\aowas\Downloads\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
